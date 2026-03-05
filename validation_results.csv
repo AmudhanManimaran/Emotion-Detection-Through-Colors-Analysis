@@ -1,0 +1,5 @@
+Style,Samples,Baseline (8),Proposed (48),Mean Diff,Std Dev (48),Cohen d,p-value
+Cubism,25,0.772,0.908,+0.136,0.015,5.8,< 0.001
+Impressionism,25,0.742,0.89,+0.149,0.023,2.75,< 0.001
+Nihonga,25,0.701,0.919,+0.218,0.018,3.58,< 0.001
+Romanticism,25,0.752,0.895,+0.143,0.02,4.86,< 0.001
